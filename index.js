@@ -1,13 +1,13 @@
 // write your code below!
-function (happyHolidays) {
+function happyHolidays(string) {
   return "Happy holidays!"
 }
-function (happyHolidaysTo) {
+function happyHolidaysTo(string) {
   return "Happy holidays, ${name}!"
 }
-function (happy HolidayTo) {
+function happyHolidayTo(string) {
   return "Happy ${holiday}, ${name}!"
 }
-function holidayCountdown {
+function holidayCountdown(string) {
   "It's ${days} days until ${holiday}!"
 }
